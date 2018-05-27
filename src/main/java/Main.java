@@ -4,5 +4,6 @@ public class Main {
         int a=266;
         byte b=(byte)a;
         System.out.println(b);
+        System.out.println(a);
     }
 }
